@@ -1,0 +1,5 @@
+13354617,husni,12081900,barang,barang,pakaian
+18650117,Ukhty Uswatun Hasanah,12 maret 2019,uang,uang,Rp. 1000000000000000000000
+76677777,ismail,90999999,barang,barang,pakaian
+189347285,rifqi ,12 maret 1200,barang,barang,motor
+17899788,danu,70908887,bahan pokok,bahan pokok,mie bungkus
